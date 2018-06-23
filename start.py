@@ -18,7 +18,7 @@ import pyspeedtest
 try:
 	print("Press CTRL + C for stop this script!")
 
-	def long_string(display, text = '', num_line = 1, num_cols = 20):
+	def long_string(display, text = '', num_line = 1, num_cols = 16):
 		""" 
 		Parameters: (driver, string to print, number of line to print, number of columns of your display)
 		Return: This function send to display your scrolling string.
@@ -52,11 +52,13 @@ try:
 		upload = st.upload()
 		advertisedDownloadSpeed = 100  # in Mbps
 		advertisedUploadSpeed = 20  # in Mps
-		top = ("ping: " + str(round(ping, 2)) + "ms.")
-		bottom = ("down: " + str(download)[0:2] + "Mbps" + ". up: " + str(upload)[0:2] + "Mbps")
+		top = ("ping:" + str(round(ping, 2)) + "ms.")
+		bottom = ("down:" + str(download)[0:2] + "Mbps" + ". up:" + str(upload)[0:2] + "Mbps.")
 		# An example of infinite scrolling text
 		long_string(display, top, 1)
 		long_string(display, bottom, 2)
+		time.sleep(5)
+    
 
 except KeyboardInterrupt: # If there is a KeyboardInterrupt (when you press ctrl+c), exit the program and cleanup
 	print("Cleaning up!")
