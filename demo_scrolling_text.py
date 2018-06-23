@@ -52,9 +52,8 @@ try:
 		upload = st.upload()
 		advertisedDownloadSpeed = 100  # in Mbps
 		advertisedUploadSpeed = 20  # in Mps
-		percentageDifference = ((download / advertisedDownloadSpeed) + (upload / advertisedUploadSpeed) / 2)
-		top = ("ping: " + str(round(ping, 2)) + "Ms. " + str(round(percentageDifference, 2)) + "%.")
-		bottom = ("down: " + str(download)[0:2] + "Mbps" + ". up: " + str(upload)[0:2] + " Mbps")
+		top = ("ping: " + str(round(ping, 2)) + "ms.")
+		bottom = ("down: " + str(download)[0:2] + "Mbps" + ". up: " + str(upload)[0:2] + "Mbps")
 		# An example of infinite scrolling text
 		long_string(display, top, 1)
 		long_string(display, bottom, 2)

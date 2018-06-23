@@ -17,8 +17,8 @@
       <file leaf-file-name="speedtest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/installConfigs/speedtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="9" />
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="2" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file leaf-file-name="demo_scrolling_text.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="59" column="39" lean-forward="true" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+            <state relative-caret-position="393">
+              <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
               <folding>
                 <element signature="e#207#223#0" expanded="true" />
               </folding>
@@ -72,6 +72,7 @@
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyspeedtest.py" />
         <option value="$PROJECT_DIR$/pyspeedtest/pyspeedtest.py" />
         <option value="$PROJECT_DIR$/installConfigs/speedtest.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/demo_scrolling_text.py" />
       </list>
     </option>
@@ -96,8 +97,12 @@
             </path>
             <path>
               <item name="lcd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lcd" type="462c0819:PsiDirectoryNode" />
-              <item name="installConfigs" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="lcd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
@@ -107,6 +112,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="C:/PythonCode" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -127,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_scrolling_text">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="demo_scrolling_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lcd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,6 +170,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lcd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="speedtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lcd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,9 +210,11 @@
       <item itemvalue="Python.speedtest" />
       <item itemvalue="Python.pyspeedtest" />
       <item itemvalue="Python.demo_scrolling_text" />
+      <item itemvalue="Python.scratch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.demo_scrolling_text" />
         <item itemvalue="Python.speedtest" />
         <item itemvalue="Python.pyspeedtest" />
@@ -254,15 +280,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/installConfigs/speedtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="9" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="2" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="59" column="39" lean-forward="true" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+        <state relative-caret-position="393">
+          <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
           <folding>
             <element signature="e#207#223#0" expanded="true" />
           </folding>
