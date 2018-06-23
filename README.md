@@ -1,8 +1,10 @@
 Credit goes to:
 https://github.com/the-raspberry-pi-guy/lcd for LCD screen
+
 https://github.com/sivel/speedtest-cli for speedtest script
 
 installation instructions:
+
 
 terminal instructions:
 
