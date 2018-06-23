@@ -5,8 +5,7 @@
 # Import necessary libraries for communication and display use
 import lcddriver
 import time
-from pyspeedtest import pyspeedtest
-
+import pyspeedtest
 
 # Load the driver and set it to "display"
 # If you use something from the driver library use the "display." prefix first

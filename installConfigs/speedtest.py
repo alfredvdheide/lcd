@@ -1,7 +1,4 @@
-from pyspeedtest import pyspeedtest
-
-
-
+import pyspeedtest
 
 st = pyspeedtest.SpeedTest()
 ping = st.ping()
