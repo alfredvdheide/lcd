@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e350e468-2af3-47e6-881b-5d3bce4a187b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/demo_scrolling_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_scrolling_text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/installConfigs/speedtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/installConfigs/speedtest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyspeedtest" beforeDir="false" afterPath="$PROJECT_DIR$/pyspeedtest" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +17,8 @@
       <file leaf-file-name="speedtest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/installConfigs/speedtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="12" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -27,8 +26,8 @@
       <file leaf-file-name="demo_scrolling_text.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="376">
+              <caret line="59" column="39" lean-forward="true" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
               <folding>
                 <element signature="e#207#223#0" expanded="true" />
               </folding>
@@ -42,7 +41,7 @@
         </entry>
       </file>
       <file leaf-file-name="pyspeedtest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyspeedtest/pyspeedtest.py">
+        <entry file="file://$PROJECT_DIR$/pyspeedtest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="185" column="51" lean-forward="true" selection-start-line="185" selection-start-column="51" selection-end-line="185" selection-end-column="51" />
@@ -100,11 +99,6 @@
               <item name="lcd" type="462c0819:PsiDirectoryNode" />
               <item name="installConfigs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lcd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lcd" type="462c0819:PsiDirectoryNode" />
-              <item name="pyspeedtest" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -115,6 +109,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/PythonCode" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\GitKraken\lcd" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -246,7 +245,7 @@
     <entry file="file://$PROJECT_DIR$/demo_lcd.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyspeedtest/pyspeedtest.py">
+    <entry file="file://$PROJECT_DIR$/pyspeedtest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="185" column="51" lean-forward="true" selection-start-line="185" selection-start-column="51" selection-end-line="185" selection-end-column="51" />
@@ -255,15 +254,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/installConfigs/speedtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="12" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="376">
+          <caret line="59" column="39" lean-forward="true" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
           <folding>
             <element signature="e#207#223#0" expanded="true" />
           </folding>
