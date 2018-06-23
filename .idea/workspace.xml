@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e350e468-2af3-47e6-881b-5d3bce4a187b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/demo_scrolling_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_scrolling_text.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/installConfigs/speedtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/installConfigs/speedtest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyspeedtest" beforeDir="false" afterPath="$PROJECT_DIR$/pyspeedtest" afterDir="false" />
     </list>
@@ -14,23 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="speedtest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="speedtest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/installConfigs/speedtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo_scrolling_text.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="demo_scrolling_text.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="48" selection-end-column="23" />
+            <state relative-caret-position="325">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#207#223#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +73,7 @@
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyspeedtest.py" />
         <option value="$PROJECT_DIR$/pyspeedtest/pyspeedtest.py" />
         <option value="$PROJECT_DIR$/installConfigs/speedtest.py" />
+        <option value="$PROJECT_DIR$/demo_scrolling_text.py" />
       </list>
     </option>
   </component>
@@ -126,7 +128,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.speedtest">
+  <component name="RunManager" selected="Python.demo_scrolling_text">
+    <configuration name="demo_scrolling_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lcd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_scrolling_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="pyspeedtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lcd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,9 +186,11 @@
     <list>
       <item itemvalue="Python.speedtest" />
       <item itemvalue="Python.pyspeedtest" />
+      <item itemvalue="Python.demo_scrolling_text" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_scrolling_text" />
         <item itemvalue="Python.speedtest" />
         <item itemvalue="Python.pyspeedtest" />
       </list>
@@ -194,7 +216,7 @@
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32912722" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32912722" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -231,19 +253,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
+    <entry file="file://$PROJECT_DIR$/installConfigs/speedtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="48" selection-end-column="23" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/installConfigs/speedtest.py">
+    <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="325">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#207#223#0" expanded="true" />
           </folding>
         </state>
       </provider>

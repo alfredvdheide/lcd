@@ -5,10 +5,23 @@
 # Import necessary libraries for communication and display use
 import lcddriver
 import time
+from pyspeedtest import pyspeedtest
+
 
 # Load the driver and set it to "display"
 # If you use something from the driver library use the "display." prefix first
 display = lcddriver.lcd()
+st = pyspeedtest.SpeedTest()
+ping = st.ping()
+download = st.download()
+upload = st.upload()
+advertisedDownloadSpeed = 100 #in Mbps
+advertisedUploadSpeed = 20 #in Mps
+percentageDifference = ((download/advertisedDownloadSpeed)+(upload/advertisedUploadSpeed)/2)
+
+print("ping: "+str(round(ping,2))+" Ms")
+top = ("ping: "+str(round(ping,2))+" Mbps. You are getting "+str(percentageDifference)+"%.")
+bottom = ("down: "+str(download)[0:2]+" Mbps"+". up: "+str(upload)[0:2]+" Mbps")
 
 # Main body of code
 try:
@@ -42,7 +55,8 @@ try:
 
 	while True:
 		# An example of infinite scrolling text
-		long_string(display, "Hello friend! This is a long text!", 2)
+		long_string(display, top, 1)
+		long_string(display, bottom, 2)
 
 except KeyboardInterrupt: # If there is a KeyboardInterrupt (when you press ctrl+c), exit the program and cleanup
 	print("Cleaning up!")
