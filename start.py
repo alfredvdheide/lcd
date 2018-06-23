@@ -57,7 +57,6 @@ try:
 		# An example of infinite scrolling text
 		long_string(display, top, 1)
 		long_string(display, bottom, 2)
-		time.sleep(120)
 
 except KeyboardInterrupt: # If there is a KeyboardInterrupt (when you press ctrl+c), exit the program and cleanup
 	print("Cleaning up!")

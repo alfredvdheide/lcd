@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e350e468-2af3-47e6-881b-5d3bce4a187b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/demo_scrolling_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_scrolling_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_scrolling_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyspeedtest" beforeDir="false" afterPath="$PROJECT_DIR$/pyspeedtest" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo_scrolling_text.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+            <state relative-caret-position="335">
+              <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
               <folding>
                 <element signature="e#207#223#0" expanded="true" />
               </folding>
@@ -146,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_scrolling_text.py" />
+      <option name="SCRIPT_NAME" value="D:\Desktop\GitKraken\lcd\start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,10 +238,10 @@
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32912722" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32912722" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -292,10 +292,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo_scrolling_text.py">
+    <entry file="file://$PROJECT_DIR$/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        <state relative-caret-position="335">
+          <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
           <folding>
             <element signature="e#207#223#0" expanded="true" />
           </folding>
